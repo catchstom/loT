@@ -2,30 +2,30 @@
     "number": 0,
     "coinbase": "0x0000000000000000000000000000000000000000",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "timestamp": 1516406400000,
+    "timestamp": 1523361600000,
     "data": "semux",
     "premine": [
         {
-            "address": "0xe30c510f3efc6e2bf98ff8f725548e6ece568f89",
+            "address": "0xaaf9a5e96281be0c95a5efcac14d697fc2747c75",
             "amount": 5000000000000000,
             "note": "founder"
         },
         {
-            "address": "0x541365fe0818ea0d2d7ab7f7bc79f719f5f72227",
+            "address": "0x7517ee82f91e22288ff5a9cb41da235bc3df5e21",
             "amount": 10000000000000000,
             "note": "development, marketing, promotion, bounties"
         },
         {
-            "address": "0x1504263ee17446ea5f8b288e1c35d05749c0e47d",
+            "address": "0xd9395c9f1c629d62dfd8937683061627aaf012dc",
             "amount": 10000000000000000,
             "note": "community distribution"
         }
     ],
     "delegates": {
-        "semux1": "0x230fe26286ef1c588a29fc57e8fa54ee2409c57b",
-        "semux2": "0xe11145b4e9e05ae06ec606af4a77ae1103661025",
-        "semux3": "0xd3063743e9906ce8ea05158e4c83590d40c6a4c9",
-        "semux4": "0xd45d3b25fd1d72e9da4dab7637814f138437f447"
+        "loT1": "0xc657f35598769347e7164b61025bf1388a14039b",
+        "loT2": "0x417ac8dd278e7c5a7d48dedacc80ed5187394960",
+        "lot3": "0x8181f50c4a4d1e82c5b8d864210b9cd14b5786fc",
+        "lot4": "0xfed5e6f6c09d96e5d4b54d6d755d896dfa815536"
     },
     "config": {
         
